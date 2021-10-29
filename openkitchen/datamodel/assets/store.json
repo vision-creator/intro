@@ -19,7 +19,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 28.15849537037037,
+				"receiveDays": 28.21210648148148,
+				"color": "#FF0000",
 				"posList": []
 			},
 			{
@@ -38,7 +39,8 @@
 				"t2": "1270",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 7.15849537037037,
+				"receiveDays": 7.212106481481482,
+				"color": "#00FF00",
 				"posList": [
 					{
 						"positionId": 308860,
@@ -88,7 +90,8 @@
 				"t2": "1400",
 				"character": "潮粘",
 				"status": "复审",
-				"receiveDays": 36.15850694444445,
+				"receiveDays": 36.212106481481487,
+				"color": "#0000FF",
 				"posList": [
 					{
 						"positionId": 308864,
@@ -114,7 +117,8 @@
 				"t2": "1400",
 				"character": "很潮",
 				"status": "复审",
-				"receiveDays": 5.1585069444444449,
+				"receiveDays": 5.212106481481482,
+				"color": "#FF00FF",
 				"posList": [
 					{
 						"positionId": 308865,
@@ -188,7 +192,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 57.15850694444445,
+				"receiveDays": 57.212106481481487,
+				"color": "#00FFFF",
 				"posList": [
 					{
 						"positionId": 19794,
@@ -232,7 +237,8 @@
 				"t2": "1400",
 				"character": "微潮",
 				"status": "复审",
-				"receiveDays": 44.15850694444445,
+				"receiveDays": 44.212106481481487,
+				"color": "#FFFF00",
 				"posList": [
 					{
 						"positionId": 19859,
@@ -282,7 +288,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 49.15850694444445,
+				"receiveDays": 49.212106481481487,
+				"color": "#70DB93",
 				"posList": [
 					{
 						"positionId": 19842,
