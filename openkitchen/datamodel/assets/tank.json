@@ -21,7 +21,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 686.1660763888889
+				"receiveDays": 686.2111458333334,
+				"color": "#FF0000"
 			},
 			{
 				"tankNo": "01",
@@ -41,7 +42,8 @@
 				"t2": "1140",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 682.1660763888889
+				"receiveDays": 682.2111458333334,
+				"color": "#00FF00"
 			},
 			{
 				"tankNo": "01",
@@ -61,7 +63,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 678.1660763888889
+				"receiveDays": 678.2111458333334,
+				"color": "#0000FF"
 			},
 			{
 				"tankNo": "01",
@@ -81,7 +84,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 676.1660763888889
+				"receiveDays": 676.2111458333334,
+				"color": "#FF00FF"
 			}
 		]
 	},
@@ -107,7 +111,8 @@
 				"t2": "1140",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 682.1660763888889
+				"receiveDays": 682.2111458333334,
+				"color": "#00FFFF"
 			},
 			{
 				"tankNo": "02",
@@ -127,7 +132,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 679.1660763888889
+				"receiveDays": 679.2111458333334,
+				"color": "#FFFF00"
 			},
 			{
 				"tankNo": "02",
@@ -147,7 +153,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 676.1660763888889
+				"receiveDays": 676.2111458333334,
+				"color": "#70DB93"
 			}
 		]
 	},
@@ -173,7 +180,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 690.1660763888889
+				"receiveDays": 690.2111458333334,
+				"color": "#5C3317"
 			},
 			{
 				"tankNo": "03",
@@ -193,7 +201,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 683.1660763888889
+				"receiveDays": 683.2111458333334,
+				"color": "#9F5F9F"
 			},
 			{
 				"tankNo": "03",
@@ -213,7 +222,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 680.1660763888889
+				"receiveDays": 680.2111458333334,
+				"color": "#B5A642"
 			}
 		]
 	},
@@ -239,7 +249,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 686.1660763888889
+				"receiveDays": 686.2111458333334,
+				"color": "#D9D919"
 			},
 			{
 				"tankNo": "04",
@@ -259,7 +270,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 679.1660763888889
+				"receiveDays": 679.2111458333334,
+				"color": "#A67D3D"
 			},
 			{
 				"tankNo": "04",
@@ -279,7 +291,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 678.1660763888889
+				"receiveDays": 678.2111458333334,
+				"color": "#8C7853"
 			},
 			{
 				"tankNo": "04",
@@ -299,7 +312,8 @@
 				"t2": "1400",
 				"character": "粘、潮",
 				"status": "复审",
-				"receiveDays": 677.1660763888889
+				"receiveDays": 677.2111458333334,
+				"color": "#A67D3D"
 			}
 		]
 	},
@@ -325,7 +339,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 681.1660763888889
+				"receiveDays": 681.2111458333334,
+				"color": "#5F9F9F"
 			},
 			{
 				"tankNo": "05",
@@ -345,7 +360,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 678.1660763888889
+				"receiveDays": 678.2111458333334,
+				"color": "#D98719"
 			},
 			{
 				"tankNo": "05",
@@ -365,7 +381,8 @@
 				"t2": "1400",
 				"character": "粘、潮",
 				"status": "复审",
-				"receiveDays": 677.1660763888889
+				"receiveDays": 677.2111458333334,
+				"color": "#B87333"
 			},
 			{
 				"tankNo": "05",
@@ -385,7 +402,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 675.1660763888889
+				"receiveDays": 675.2111458333334,
+				"color": "#FF7F00"
 			},
 			{
 				"tankNo": "05",
@@ -405,7 +423,8 @@
 				"t2": "1300",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 673.1660763888889
+				"receiveDays": 673.2111458333334,
+				"color": "#42426F"
 			}
 		]
 	},
@@ -431,7 +450,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 691.1660763888889
+				"receiveDays": 691.2111458333334,
+				"color": "#5C4033"
 			},
 			{
 				"tankNo": "06",
@@ -451,7 +471,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 689.1660763888889
+				"receiveDays": 689.2111458333334,
+				"color": "#2F4F2F"
 			},
 			{
 				"tankNo": "06",
@@ -471,7 +492,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 686.1660763888889
+				"receiveDays": 686.2111458333334,
+				"color": "#4A766E"
 			}
 		]
 	},
@@ -497,7 +519,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 684.1660763888889
+				"receiveDays": 684.2111458333334,
+				"color": "#4F4F2F"
 			},
 			{
 				"tankNo": "07",
@@ -517,7 +540,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 678.1660763888889
+				"receiveDays": 678.2111458333334,
+				"color": "#9932CD"
 			}
 		]
 	},
@@ -543,7 +567,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 675.1660763888889
+				"receiveDays": 675.2111458333334,
+				"color": "#871F78"
 			},
 			{
 				"tankNo": "08",
@@ -563,7 +588,8 @@
 				"t2": "1300",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 673.1660763888889
+				"receiveDays": 673.2111458333334,
+				"color": "#6B238E"
 			}
 		]
 	},
@@ -589,7 +615,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 689.1660763888889
+				"receiveDays": 689.2111458333334,
+				"color": "#2F4F4F"
 			},
 			{
 				"tankNo": "09",
@@ -609,7 +636,8 @@
 				"t2": "1170",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 688.1660763888889
+				"receiveDays": 688.2111458333334,
+				"color": "#97694F"
 			},
 			{
 				"tankNo": "09",
@@ -629,7 +657,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 679.1660763888889
+				"receiveDays": 679.2111458333334,
+				"color": "#7093DB"
 			},
 			{
 				"tankNo": "09",
@@ -649,7 +678,8 @@
 				"t2": "1400",
 				"character": "粘、潮",
 				"status": "复审",
-				"receiveDays": 677.1660763888889
+				"receiveDays": 677.2111458333334,
+				"color": "#855E42"
 			},
 			{
 				"tankNo": "09",
@@ -669,7 +699,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 676.1660763888889
+				"receiveDays": 676.2111458333334,
+				"color": "#545454"
 			}
 		]
 	},
@@ -695,7 +726,8 @@
 				"t2": "1400",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 686.1660763888889
+				"receiveDays": 686.2111458333334,
+				"color": "#856363"
 			},
 			{
 				"tankNo": "10",
@@ -715,7 +747,8 @@
 				"t2": "1140",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 682.1660763888889
+				"receiveDays": 682.2111458333334,
+				"color": "#D19275"
 			},
 			{
 				"tankNo": "10",
@@ -735,7 +768,8 @@
 				"t2": "1150",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 680.1660763888889
+				"receiveDays": 680.2111458333334,
+				"color": "#8E2323"
 			},
 			{
 				"tankNo": "10",
@@ -755,7 +789,8 @@
 				"t2": "1400",
 				"character": "潮",
 				"status": "复审",
-				"receiveDays": 678.1660763888889
+				"receiveDays": 678.2111458333334,
+				"color": "#238E23"
 			},
 			{
 				"tankNo": "10",
@@ -775,7 +810,8 @@
 				"t2": "1400",
 				"character": "粘、潮",
 				"status": "复审",
-				"receiveDays": 677.1660763888889
+				"receiveDays": 677.2111458333334,
+				"color": "#CD7F32"
 			},
 			{
 				"tankNo": "10",
@@ -795,7 +831,8 @@
 				"t2": "1160",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 676.1660763888889
+				"receiveDays": 676.2111458333334,
+				"color": "#DBDB70"
 			},
 			{
 				"tankNo": "10",
@@ -815,7 +852,8 @@
 				"t2": "1300",
 				"character": null,
 				"status": "复审",
-				"receiveDays": 673.1660763888889
+				"receiveDays": 673.2111458333334,
+				"color": "#C0C0C0"
 			}
 		]
 	}
