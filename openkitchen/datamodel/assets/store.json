@@ -1,0 +1,320 @@
+[
+	{
+		"storeNo": "01",
+		"description": "#1煤场",
+		"coalStoreList": [
+			{
+				"storeNo": "01",
+				"orderNo": "R105085",
+				"quantity": 5840.0,
+				"receiveDate": "2021-10-01 00:00:00",
+				"coalType": "混煤",
+				"shipName": "顺通达56",
+				"heatValue": 5366.0,
+				"moistureValue": 14.05,
+				"volatileValue": 33.12,
+				"ashValue": 12.06,
+				"sulfurValue": 0.86,
+				"fcarValue": 47.47,
+				"t2": "1400",
+				"character": null,
+				"status": "复审",
+				"receiveDays": 28.15849537037037,
+				"posList": []
+			},
+			{
+				"storeNo": "01",
+				"orderNo": "R105116",
+				"quantity": 14100.0,
+				"receiveDate": "2021-10-22 00:00:00",
+				"coalType": "混煤",
+				"shipName": "恩洁2",
+				"heatValue": 5195.0,
+				"moistureValue": 14.7,
+				"volatileValue": 26.72,
+				"ashValue": 14.35,
+				"sulfurValue": 0.84,
+				"fcarValue": 51.86,
+				"t2": "1270",
+				"character": null,
+				"status": "复审",
+				"receiveDays": 7.15849537037037,
+				"posList": [
+					{
+						"positionId": 308860,
+						"levelNo": "0",
+						"startPos": 154.0,
+						"endPos": 284.0
+					},
+					{
+						"positionId": 308861,
+						"levelNo": "1",
+						"startPos": 158.0,
+						"endPos": 284.0
+					},
+					{
+						"positionId": 308862,
+						"levelNo": "2",
+						"startPos": 186.0,
+						"endPos": 281.0
+					},
+					{
+						"positionId": 308863,
+						"levelNo": "3",
+						"startPos": 275.0,
+						"endPos": 276.0
+					}
+				]
+			}
+		]
+	},
+	{
+		"storeNo": "02",
+		"description": "#2煤场",
+		"coalStoreList": [
+			{
+				"storeNo": "02",
+				"orderNo": "R105056",
+				"quantity": 12902.0,
+				"receiveDate": "2021-09-23 00:00:00",
+				"coalType": "大友-4500",
+				"shipName": "太湖8",
+				"heatValue": 4713.0,
+				"moistureValue": 10.85,
+				"volatileValue": 25.38,
+				"ashValue": 24.59,
+				"sulfurValue": 0.86,
+				"fcarValue": 43.98,
+				"t2": "1400",
+				"character": "潮粘",
+				"status": "复审",
+				"receiveDays": 36.15850694444445,
+				"posList": [
+					{
+						"positionId": 308864,
+						"levelNo": "0",
+						"startPos": 246.0,
+						"endPos": 283.0
+					}
+				]
+			},
+			{
+				"storeNo": "02",
+				"orderNo": "R105107",
+				"quantity": 25804.0,
+				"receiveDate": "2021-10-24 00:00:00",
+				"coalType": "大友-4500",
+				"shipName": "太湖8",
+				"heatValue": 4914.0,
+				"moistureValue": 6.6,
+				"volatileValue": 24.27,
+				"ashValue": 28.43,
+				"sulfurValue": 0.68,
+				"fcarValue": 43.58,
+				"t2": "1400",
+				"character": "很潮",
+				"status": "复审",
+				"receiveDays": 5.1585069444444449,
+				"posList": [
+					{
+						"positionId": 308865,
+						"levelNo": "0",
+						"startPos": 240.0,
+						"endPos": 246.0
+					},
+					{
+						"positionId": 308866,
+						"levelNo": "0",
+						"startPos": 100.0,
+						"endPos": 209.0
+					},
+					{
+						"positionId": 308867,
+						"levelNo": "1",
+						"startPos": 100.0,
+						"endPos": 209.0
+					},
+					{
+						"positionId": 308868,
+						"levelNo": "1",
+						"startPos": 240.0,
+						"endPos": 268.0
+					},
+					{
+						"positionId": 308869,
+						"levelNo": "2",
+						"startPos": 102.0,
+						"endPos": 209.0
+					},
+					{
+						"positionId": 308870,
+						"levelNo": "2",
+						"startPos": 240.0,
+						"endPos": 276.0
+					},
+					{
+						"positionId": 308871,
+						"levelNo": "3",
+						"startPos": 133.0,
+						"endPos": 209.0
+					},
+					{
+						"positionId": 308872,
+						"levelNo": "3",
+						"startPos": 240.0,
+						"endPos": 271.0
+					}
+				]
+			}
+		]
+	},
+	{
+		"storeNo": "03",
+		"description": "#3煤场",
+		"coalStoreList": [
+			{
+				"storeNo": "03",
+				"orderNo": "R105018",
+				"quantity": 4862.0,
+				"receiveDate": "2021-09-02 00:00:00",
+				"coalType": "平三/五",
+				"shipName": "长晶海",
+				"heatValue": 5186.0,
+				"moistureValue": 8.2,
+				"volatileValue": 27.06,
+				"ashValue": 21.46,
+				"sulfurValue": 1.25,
+				"fcarValue": 47.15,
+				"t2": "1400",
+				"character": "潮",
+				"status": "复审",
+				"receiveDays": 57.15850694444445,
+				"posList": [
+					{
+						"positionId": 19794,
+						"levelNo": "0",
+						"startPos": 210.0,
+						"endPos": 265.0
+					},
+					{
+						"positionId": 19795,
+						"levelNo": "1",
+						"startPos": 215.0,
+						"endPos": 265.0
+					},
+					{
+						"positionId": 19796,
+						"levelNo": "2",
+						"startPos": 230.0,
+						"endPos": 265.0
+					},
+					{
+						"positionId": 19863,
+						"levelNo": "3",
+						"startPos": 255.0,
+						"endPos": 265.0
+					}
+				]
+			},
+			{
+				"storeNo": "03",
+				"orderNo": "R105039",
+				"quantity": 12809.0,
+				"receiveDate": "2021-09-15 00:00:00",
+				"coalType": "平三/五",
+				"shipName": "利电9",
+				"heatValue": 4943.0,
+				"moistureValue": 8.7,
+				"volatileValue": 25.83,
+				"ashValue": 23.81,
+				"sulfurValue": 1.18,
+				"fcarValue": 45.63,
+				"t2": "1400",
+				"character": "微潮",
+				"status": "复审",
+				"receiveDays": 44.15850694444445,
+				"posList": [
+					{
+						"positionId": 19859,
+						"levelNo": "0",
+						"startPos": 265.0,
+						"endPos": 330.0
+					},
+					{
+						"positionId": 19860,
+						"levelNo": "1",
+						"startPos": 265.0,
+						"endPos": 330.0
+					},
+					{
+						"positionId": 19861,
+						"levelNo": "2",
+						"startPos": 265.0,
+						"endPos": 330.0
+					},
+					{
+						"positionId": 19862,
+						"levelNo": "3",
+						"startPos": 265.0,
+						"endPos": 330.0
+					}
+				]
+			}
+		]
+	},
+	{
+		"storeNo": "04",
+		"description": "#4煤场",
+		"coalStoreList": [
+			{
+				"storeNo": "04",
+				"orderNo": "R105028",
+				"quantity": 22107.0,
+				"receiveDate": "2021-09-10 00:00:00",
+				"coalType": "山西混4500",
+				"shipName": "太湖8",
+				"heatValue": 4204.0,
+				"moistureValue": 9.0,
+				"volatileValue": 23.98,
+				"ashValue": 31.15,
+				"sulfurValue": 1.08,
+				"fcarValue": 39.42,
+				"t2": "1400",
+				"character": null,
+				"status": "复审",
+				"receiveDays": 49.15850694444445,
+				"posList": [
+					{
+						"positionId": 19842,
+						"levelNo": "0",
+						"startPos": 85.0,
+						"endPos": 260.0
+					},
+					{
+						"positionId": 19843,
+						"levelNo": "1",
+						"startPos": 140.0,
+						"endPos": 260.0
+					},
+					{
+						"positionId": 19844,
+						"levelNo": "2",
+						"startPos": 160.0,
+						"endPos": 260.0
+					},
+					{
+						"positionId": 19845,
+						"levelNo": "3",
+						"startPos": 162.0,
+						"endPos": 260.0
+					}
+				]
+			}
+		]
+	},
+	{
+		"storeNo": "05",
+		"description": "#5煤场",
+		"coalStoreList": []
+	}
+]
